@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamza Hashim</h1>
-<h3 align="center">A passionate cyber security student</h3>
+<h1 align="center">Hi 👋, I'm ReFang</h1>
+<h3 align="center"> Web Pentester | Bug Bounty Hunter | Red Teamer </h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/HamzaHashim12/HamzaHashim12/blob/main/140866485-8fb1c876-9a8f-4d6a-9-unscreen.gif">
 
