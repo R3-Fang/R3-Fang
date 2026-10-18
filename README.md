@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzahashim12&label=Profile%20views&color=0e75b6&style=flat" alt="hamzahashim12" /> </p>
 
-- 🌱 ### 🔨 Building
+- 🔨 Building
 **[Break The Root](https://breaktheroot.com/)** is a hands-on cybersecurity training platform. You exploit real vulnerable machines, then patch the flaw that let you in.
 
 - 📫 How to reach me **r3fang@proton.me**
