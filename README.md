@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm ReFang</h1>
-<h3 align="center"> Web Pentester | Bug Bounty Hunter | Red Teamer </h3>
+<h3 align="center"> Red Teamer | Co-founder @ Vulnosis | Founder @ Break The Root. </h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/HamzaHashim12/HamzaHashim12/blob/main/140866485-8fb1c876-9a8f-4d6a-9-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzahashim12&label=Profile%20views&color=0e75b6&style=flat" alt="hamzahashim12" /> </p>
 
-- 🌱 I’m currently learning **Web application Security along with Python C++**
+- 🌱 ### 🔨 Building
+**[Break The Root](https://breaktheroot.com/)** is a hands-on cybersecurity training platform. You exploit real vulnerable machines, then patch the flaw that let you in.
 
 - 📫 How to reach me **r3fang@proton.me**
 
